@@ -1,4 +1,4 @@
-# my-django-doc
+# My django project's intro codes with subdomain conf
 Django projelerime başlarken işimi kolaylaştırmak adına oluşturduğum bir repositorydir.
 
 Repository'de bulunanlar:
